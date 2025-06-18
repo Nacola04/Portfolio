@@ -1,110 +1,296 @@
 {
   "skills": [
     {
-      "id": "react",
-      "nom": "React",
-      "description": "Bibliothèque JavaScript pour la création d'interfaces utilisateur modernes et performantes. Maîtrise des hooks, context API et écosystème React.",
-      "image": "https://images.pexels.com/photos/11035380/pexels-photo-11035380.jpeg?auto=compress&cs=tinysrgb&w=400",
-      "lien": "https://reactjs.org",
+      "id": "c",
+      "nom": "C",
+      "description": "Le C est un langage de programmation bas niveau. Il est très souvent utilisé pour concevoir des applications ou des systèmes d'exploitation.",
+      "image": "./images/C.png",
+      "lien": "https://www.cprogramming.com",
+      "type": "logiciel",
+      "competencesEtudiees": [
+        {
+          "nom": "Réaliser un développement d'application",
+          "description": "J'ai utilisé le C pour réaliser des applications de gestion, de fichiers, de stocks, etc."
+        },
+        {
+          "nom": "Gérer des données de l'information",
+          "description": "J'ai du gérer des données de fichiers, bien souvent sous forme de CSV."
+        }
+      ]
+    },
+    {
+      "id": "html",
+      "nom": "HTML",
+      "description": "Pour débuter dans le développement web, j'ai appris la base, c'est à dire le HTML.",
+      "image": "./images/html.jpg",
+      "lien": "https://developer.mozilla.org/fr/docs/Web/HTML",
       "type": "frontend",
       "competencesEtudiees": [
         {
-          "nom": "Développement d'interface",
-          "description": "Création d'interfaces utilisateur interactives et responsive selon les standards modernes"
+          "nom": "Réaliser un développement d'application",
+          "description": "J'ai utilisé le HTML pour réaliser des sites web."
+        }
+      ]
+    },
+    {
+      "id": "css",
+      "nom": "CSS",
+      "description": "Le CSS est un langage de style pour les sites web. Il permet de styliser les sites web. Il fait partie des bases du développement web, tout comme le HTML.",
+      "image": "./images/css.png",
+      "lien": "https://developer.mozilla.org/fr/docs/Web/CSS",
+      "type": "frontend",
+      "competencesEtudiees": [
+        {
+          "nom": "Réaliser un développement d'application",
+          "description": "J'ai utilisé le CSS pour styliser les sites web."
+        }
+      ]
+    },
+    {
+      "id": "java",
+      "nom": "Java",
+      "description": "Le Java est un langage de programmation orienté objet. Il est très souvent utilisé pour réaliser des logiciels ou des jeux.",
+      "image": "./images/java.webp",
+      "lien": "https://www.java.com/fr/",
+      "type": "logiciel",
+      "competencesEtudiees": [
+        {
+          "nom": "Réaliser un développement d'application",
+          "description": "J'ai utilisé le Java pour réaliser des logiciels."
         },
         {
-          "nom": "Architecture logicielle",
-          "description": "Application des patterns de conception et bonnes pratiques en développement frontend"
+          "nom": "Optimiser des applications informatiques",
+          "description": "J'ai appris énormément de design patterns en utilisant le Java. Je maîtrise donc bien l'optimisation dans ce langage."
+        },
+        {
+          "nom": "Travailler dans une équipe informatique",
+          "description": "J'ai très souvent travaillé en équipe avec des projets Java."
+        }
+      ]
+    },
+    {
+      "id": "javascript",
+      "nom": "JavaScript",
+      "description": "JavaScript est un langage de programmation côté client. Il est très souvent utilisé pour réaliser des sites web dynamiques.",
+      "image": "./images/javascript.png",
+      "lien": "https://developer.mozilla.org/fr/docs/Web/JavaScript",
+      "type": "frontend",
+      "competencesEtudiees": [
+        {
+          "nom": "Réaliser un développement d'application",
+          "description": "J'ai utilisé le JavaScript pour réaliser des sites et applications web dynamiques."
+        },
+        {
+          "nom": "Optimiser des applications informatiques",
+          "description": "J'ai eu la chance de travailler sur des projets complexes qui m'ont permis d'apprendre de nombreux concepts, ce qui m'a permis de produire des applications optimisées."
+        },
+        {
+          "nom": "Gérer des données de l'information",
+          "description": "J'ai appris à gérer des données locales, sous forme de cookies ou de localStorage."
+        },
+        {
+          "nom": "Travailler dans une équipe informatique",
+          "description": "J'ai participé à de nombreux projets en équipe qui utilisent JavaScript."
         }
       ]
     },
     {
       "id": "typescript",
       "nom": "TypeScript",
-      "description": "Surcouche typée de JavaScript permettant un développement plus robuste et maintenable. Maîtrise des types avancés et intégration avec les frameworks modernes.",
-      "image": "https://images.pexels.com/photos/270404/pexels-photo-270404.jpeg?auto=compress&cs=tinysrgb&w=400",
+      "description": "TypeScript est une surcouche typée de JavaScript permettant un développement plus robuste et maintenable. Maîtrise des types avancés et intégration avec les frameworks modernes.",
+      "image": "./images/Typescript.png",
       "lien": "https://www.typescriptlang.org",
       "type": "frontend",
       "competencesEtudiees": [
         {
-          "nom": "Programmation orientée objet",
-          "description": "Application des concepts de typage fort et des patterns orientés objet"
+          "nom": "Réaliser un développement d'application",
+          "description": "J'ai appris les concepts de typage fort et des patterns orientés objet."
         },
         {
-          "nom": "Qualité logicielle",
-          "description": "Amélioration de la robustesse du code grâce au typage statique"
+          "nom": "Optimiser des applications informatiques",
+          "description": "J'ai appris à maîtriser les types avancés et à intégrer TypeScript avec les frameworks que j'ai utilisés."
+        }
+      ]
+    },
+    {
+      "id": "php",
+      "nom": "PHP",
+      "description": "PHP est un langage de programmation côté serveur. Il est très souvent utilisé pour réaliser des sites web dynamiques.",
+      "image": "./images/php.svg",
+      "lien": "https://www.php.net",
+      "type": "backend",
+      "competencesEtudiees": [
+        {
+          "nom": "Réaliser un développement d'application",
+          "description": "J'ai utilisé le PHP pour réaliser des applications web."
+        },
+        {
+          "nom": "Gérer des données de l'information",
+          "description": "Le PHP étant un langage côté serveur, j'ai beaucoup manipulé des données de bases de données, sous forme de MySQL."
+        },
+        {
+          "nom": "Travailler dans une équipe informatique",
+          "description": "J'ai participé à plusieurs projets en équipe qui utilisent PHP."
+        }
+      ]
+    },
+    {
+      "id": "vuejs",
+      "nom": "Vue.js",
+      "description": "Vue.js a été mon premier framework JavaScript. Il m'a permis de découvrir le développement web utilisant des composants. Ce fut une superbe expérience que j'ai fortement appréciée. J'étais déjà un grand fan de JavaScript et ce framework m'a encore plus plu.",
+      "image": "./images/vuejs.png",
+      "lien": "https://vuejs.org",
+      "type": "frontend",
+      "competencesEtudiees": [
+        {
+          "nom": "Réaliser un développement d'application",
+          "description": "J'ai pu apprendre à utiliser le principe de composants et de réutilisation de code, ce qui est une compétence importante dans le développement moderne."
+        },
+        {
+          "nom": "Optimiser des applications informatiques",
+          "description": "J'ai pu apprendre à optimiser le code en réutilisant des composants et en séparant les responsabilités."
+        }
+      ]
+    },
+    {
+      "id": "symfony",
+      "nom": "Symfony",
+      "description": "Symfony est un framework PHP. J'ai été émerveillé par la puissance de ce framework quand j'ai vu tout ce que l'on pouvait faire avec. J'ai eu beaucoup de mal à m'adapter à ce framework, mais j'ai fini par comprendre son fonctionnement et je l'ai apprécié.",
+      "image": "./images/symfony.png",
+      "lien": "https://symfony.com",
+      "type": "backend",
+      "competencesEtudiees": [
+        {
+          "nom": "Réaliser un développement d'application",
+          "description": "J'ai pu apprendre à utiliser Symfony grâce à un projet en équipe. J'ai beaucoup apprécié utiliser ce framework."
+        },
+        {
+          "nom": "Gérer des données de l'information",
+          "description": "Pour le traitement des données, je n'ai pas été très dépaysé par rapport à PHP."
+        },
+        {
+          "nom": "Travailler dans une équipe informatique",
+          "description": "J'ai participé à un projet en équipe où l'on a utilisé Symfony."
+        }
+      ]
+    },
+    {
+      "id": "react",
+      "nom": "React",
+      "description": "Bibliothèque JavaScript pour la création d'interfaces utilisateur modernes et performantes. Maîtrise des hooks, context API et écosystème React.",
+      "image": "./images/react.jpg",
+      "lien": "https://reactjs.org",
+      "type": "frontend",
+      "competencesEtudiees": [
+        {
+          "nom": "Réaliser un développement d'application",
+          "description": "J'ai pu apprendre à maîtriser les hooks et les contextes pour créer des interfaces utilisateur interactives et responsive."
+        },
+        {
+          "nom": "Optimiser des applications informatiques",
+          "description": "J'ai pu apprendre à optimiser le code en utilisant les hooks et les contextes."
+        },
+        {
+          "nom": "Travailler dans une équipe informatique",
+          "description": "J'ai participé à un projet en équipe lors de mon stage de 2ème année de BUT."
+        }
+      ]
+    },
+    {
+      "id": "nextjsfrontend",
+      "nom": "Next.js",
+      "description": "Next.js est un framework de React pour la création d'applications web. Je l'ai beaucoup utilisé durant mon stage et ce fut un véritable plaisir de le découvrir.",
+      "image": "./images/next.avif",
+      "lien": "https://nextjs.org",
+      "type": "frontend",
+      "competencesEtudiees": [
+        {
+          "nom": "Réaliser un développement d'application",
+          "description": "J'ai pu apprendre à utiliser Next.js durant mon stage pour créer des applications fullstack complexes."
+        },
+        {
+          "nom": "Gérer des données de l'information",
+          "description": "J'ai pu apprendre à utiliser les API de Next.js pour gérer des données de bases de données."
+        },
+        {
+          "nom": "Travailler dans une équipe informatique",
+          "description": "J'ai participé à un projet en équipe lors de mon stage."
+        }
+      ]
+    },
+    {
+      "id": "nextjsbackend",
+      "nom": "Next.js",
+      "description": "Next.js est un framework de React pour la création d'applications web. Je l'ai beaucoup utilisé durant mon stage et ce fut un véritable plaisir de le découvrir.",
+      "image": "./images/next.avif",
+      "lien": "https://nextjs.org",
+      "type": "backend",
+      "competencesEtudiees": [
+        {
+          "nom": "Réaliser un développement d'application",
+          "description": "J'ai pu apprendre à utiliser Next.js durant mon stage pour créer des applications fullstack complexes."
+        },
+        {
+          "nom": "Gérer des données de l'information",
+          "description": "J'ai pu apprendre à utiliser les API de Next.js pour gérer des données de bases de données."
+        },
+        {
+          "nom": "Travailler dans une équipe informatique",
+          "description": "J'ai participé à un projet en équipe lors de mon stage."
         }
       ]
     },
     {
       "id": "nodejs",
       "nom": "Node.js",
-      "description": "Runtime JavaScript côté serveur permettant le développement d'applications web performantes. Maîtrise d'Express.js, API REST et architecture microservices.",
-      "image": "https://images.pexels.com/photos/1181467/pexels-photo-1181467.jpeg?auto=compress&cs=tinysrgb&w=400",
+      "description": "Node.js est un runtime (environnement d'exécution) JavaScript côté serveur permettant le développement d'applications web performantes. J'ai eu l'occasion de l'utiliser durant mon parcours de BUT.",
+      "image": "./images/nodejs.svg",
       "lien": "https://nodejs.org",
       "type": "backend",
       "competencesEtudiees": [
         {
-          "nom": "Développement backend",
-          "description": "Création d'APIs robustes et évolutives avec Node.js et Express"
+          "nom": "Réaliser un développement d'application",
+          "description": "J'ai eu l'occasion de créer des APIs avec Node.js et Express."
         },
         {
-          "nom": "Architecture système",
-          "description": "Conception d'architectures scalables et maintenables"
+          "nom": "Travailler dans une équipe informatique",
+          "description": "J'ai eu l'occasion de travailler en équipe avec Node.js."
         }
       ]
     },
     {
       "id": "mongodb",
       "nom": "MongoDB",
-      "description": "Base de données NoSQL orientée document, idéale pour les applications modernes. Maîtrise de l'aggregation pipeline, indexation et optimisation des performances.",
-      "image": "https://images.pexels.com/photos/1181298/pexels-photo-1181298.jpeg?auto=compress&cs=tinysrgb&w=400",
+      "description": "MongoDB est une base de données NoSQL orientée document, idéale pour les applications modernes.",
+      "image": "./images/mongodb.jpg",
       "lien": "https://www.mongodb.com",
       "type": "backend",
       "competencesEtudiees": [
         {
-          "nom": "Base de données",
-          "description": "Conception et optimisation de schémas de données NoSQL"
+          "nom": "Gérer des données de l'information",
+          "description": "Permet de concevoir et d'optimiser des schémas de données NoSQL"
         },
         {
-          "nom": "Performance système",
-          "description": "Optimisation des requêtes et gestion de la montée en charge"
+          "nom": "Travailler dans une équipe informatique",
+          "description": "J'ai eu l'occasion de travailler en équipe avec MongoDB lors de mon stage."
         }
       ]
     },
     {
-      "id": "docker",
-      "nom": "Docker",
-      "description": "Plateforme de conteneurisation permettant le déploiement et la gestion d'applications dans des environnements isolés. Maîtrise de Docker Compose et orchestration.",
-      "image": "https://images.pexels.com/photos/1181677/pexels-photo-1181677.jpeg?auto=compress&cs=tinysrgb&w=400",
-      "lien": "https://www.docker.com",
-      "type": "logiciel",
+      "id": "tailwindcss",
+      "nom": "Tailwind CSS",
+      "description": "Tailwind CSS est un framework CSS qui permet de créer des interfaces utilisateur rapidement et facilement.",
+      "image": "./images/tailwindcss.webp",
+      "lien": "https://tailwindcss.com",
+      "type": "frontend",
       "competencesEtudiees": [
         {
-          "nom": "DevOps",
-          "description": "Mise en place de pipelines CI/CD et gestion des environnements de développement"
+          "nom": "Réaliser un développement d'application",
+          "description": "J'ai eu l'occasion de créer des interfaces utilisateur avec Tailwind CSS."
         },
         {
-          "nom": "Architecture système",
-          "description": "Containerisation et orchestration d'applications distribuées"
-        }
-      ]
-    },
-    {
-      "id": "git",
-      "nom": "Git",
-      "description": "Système de contrôle de version distribué essentiel pour le développement collaboratif. Maîtrise des workflows avancés, branching strategies et résolution de conflits.",
-      "image": "https://images.pexels.com/photos/1181244/pexels-photo-1181244.jpeg?auto=compress&cs=tinysrgb&w=400",
-      "lien": "https://git-scm.com",
-      "type": "logiciel",
-      "competencesEtudiees": [
-        {
-          "nom": "Travail en équipe",
-          "description": "Collaboration efficace en équipe avec gestion des versions et des branches"
-        },
-        {
-          "nom": "Gestion de projet",
-          "description": "Organisation du code et suivi des modifications dans les projets complexes"
+          "nom": "Travailler dans une équipe informatique",
+          "description": "J'ai eu l'occasion de travailler en équipe avec Tailwind CSS lors de mon stage."
         }
       ]
     }
