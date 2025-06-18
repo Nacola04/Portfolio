@@ -65,7 +65,7 @@
       "id": "but-informatique",
       "nom": "BUT Informatique à l'IUT Informatique de Lyon 1",
       "description": "Je suis en 2ème année de BUT Informatique à l'IUT Informatique de Lyon 1. J'ai donc suivi une formation qui m'a permis de développer mes compétences en programmation, en réseaux et en gestion de projet. Cela m'a permis notament de faire ce Portfolio.",
-      "image": "./images/logoIUT.png",
+      "image": "./images/logo_iut.webp",
       "lien": "https://iut.univ-lyon1.fr/",
       "type": "etudes",
       "date": "2022-09-01",
