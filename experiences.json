@@ -1,0 +1,96 @@
+{
+  "experiences": [
+    {
+      "id": "stage-dev-fullstack",
+      "nom": "Stage Développeur Full-Stack",
+      "description": "Stage de 6 mois chez TechCorp en tant que développeur full-stack. Développement d'une application web de gestion interne avec React et Node.js. Collaboration en équipe agile, participation aux code reviews et amélioration continue des processus de développement.",
+      "image": "https://images.pexels.com/photos/3184291/pexels-photo-3184291.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "lien": "https://techcorp.com",
+      "type": "professionnelle",
+      "date": "2024-02-01",
+      "competencesEtudiees": [
+        {
+          "nom": "Développement professionnel",
+          "description": "Application des compétences techniques dans un environnement professionnel réel"
+        },
+        {
+          "nom": "Travail en équipe",
+          "description": "Collaboration avec une équipe de développeurs expérimentés et participation aux méthodologies agiles"
+        },
+        {
+          "nom": "Communication professionnelle",
+          "description": "Présentation de solutions techniques et participation aux réunions d'équipe"
+        }
+      ]
+    },
+    {
+      "id": "master-informatique",
+      "nom": "Master en Informatique",
+      "description": "Formation spécialisée en développement logiciel et ingénierie informatique. Cursus couvrant les technologies web modernes, l'architecture logicielle, les bases de données et la gestion de projet. Projets pratiques en équipe et stage en entreprise.",
+      "image": "https://images.pexels.com/photos/267885/pexels-photo-267885.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "lien": "",
+      "type": "etudes",
+      "date": "2022-09-01",
+      "competencesEtudiees": [
+        {
+          "nom": "Fondamentaux informatiques",
+          "description": "Acquisition des bases théoriques et pratiques du développement logiciel"
+        },
+        {
+          "nom": "Méthodologie de projet",
+          "description": "Apprentissage des méthodes de gestion de projet informatique et travail en équipe"
+        },
+        {
+          "nom": "Veille technologique",
+          "description": "Développement de la capacité à s'adapter aux évolutions technologiques"
+        }
+      ]
+    },
+    {
+      "id": "freelance-web",
+      "nom": "Développeur Web Freelance",
+      "description": "Activité freelance en parallèle des études, création de sites web pour des petites entreprises locales. Gestion complète des projets de la conception à la mise en ligne. Développement de compétences en relation client et gestion d'entreprise.",
+      "image": "https://images.pexels.com/photos/3584994/pexels-photo-3584994.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "lien": "",
+      "type": "personnelle",
+      "date": "2023-06-01",
+      "competencesEtudiees": [
+        {
+          "nom": "Entrepreneuriat",
+          "description": "Développement de l'autonomie et des compétences entrepreneuriales"
+        },
+        {
+          "nom": "Gestion client",
+          "description": "Apprentissage de la communication client et gestion des attentes"
+        },
+        {
+          "nom": "Polyvalence technique",
+          "description": "Maîtrise de l'ensemble de la chaîne de développement web"
+        }
+      ]
+    },
+    {
+      "id": "bts-sio",
+      "nom": "BTS Services Informatiques aux Organisations",
+      "description": "Formation initiale en informatique avec spécialisation en développement d'applications. Acquisition des fondamentaux de la programmation, des bases de données et des réseaux. Premiers projets en équipe et découverte du monde professionnel.",
+      "image": "https://images.pexels.com/photos/159711/books-bookstore-book-reading-159711.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "lien": "",
+      "type": "etudes",
+      "date": "2020-09-01",
+      "competencesEtudiees": [
+        {
+          "nom": "Bases de la programmation",
+          "description": "Apprentissage des langages de programmation et des concepts algorithmiques"
+        },
+        {
+          "nom": "Système et réseaux",
+          "description": "Compréhension de l'infrastructure informatique et des communications"
+        },
+        {
+          "nom": "Projet informatique",
+          "description": "Réalisation de premiers projets informatiques en contexte professionnel"
+        }
+      ]
+    }
+  ]
+}

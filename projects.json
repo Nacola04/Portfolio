@@ -1,0 +1,80 @@
+{
+  "projects": [
+    {
+      "id": "ecommerce-react",
+      "nom": "Plateforme E-commerce",
+      "description": "Application web complète de commerce électronique développée en React avec TypeScript. Intégration de Stripe pour les paiements, gestion d'état avec Redux, et interface responsive. Fonctionnalités avancées : panier persistant, système de recherche et filtrage, gestion des utilisateurs.",
+      "image": "https://images.pexels.com/photos/230544/pexels-photo-230544.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "lien": "https://github.com/monprojet/ecommerce",
+      "type": "personnel",
+      "competencesEtudiees": [
+        {
+          "nom": "Développement Full-Stack",
+          "description": "Application des concepts de développement moderne avec React, gestion d'état et intégration API"
+        },
+        {
+          "nom": "Gestion de projet",
+          "description": "Planification et développement itératif selon les méthodes agiles"
+        }
+      ]
+    },
+    {
+      "id": "gestion-bibliotheque",
+      "nom": "Système de Gestion Bibliothèque",
+      "description": "Application universitaire pour la gestion d'une bibliothèque développée en Java avec Spring Boot. Base de données MySQL, interface web responsive, système d'authentification et de réservation de livres. Projet réalisé en équipe de 4 personnes.",
+      "image": "https://images.pexels.com/photos/481516/pexels-photo-481516.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "lien": "",
+      "type": "universitaire",
+      "competencesEtudiees": [
+        {
+          "nom": "Programmation orientée objet",
+          "description": "Mise en pratique des concepts POO avec Java et Spring Framework"
+        },
+        {
+          "nom": "Base de données",
+          "description": "Conception et implémentation d'une base de données relationnelle avec MySQL"
+        },
+        {
+          "nom": "Travail en équipe",
+          "description": "Collaboration en équipe avec Git, méthodologie Scrum et répartition des tâches"
+        }
+      ]
+    },
+    {
+      "id": "portfolio-3d",
+      "nom": "Portfolio 3D Interactif",
+      "description": "Portfolio personnel créé avec Three.js et React, mettant en avant mes projets dans un environnement 3D immersif. Navigation fluide, animations complexes et design moderne. Optimisé pour les performances avec lazy loading des modèles 3D.",
+      "image": "https://images.pexels.com/photos/1181263/pexels-photo-1181263.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "lien": "https://monportfolio3d.com",
+      "type": "personnel",
+      "competencesEtudiees": [
+        {
+          "nom": "Technologies émergentes",
+          "description": "Exploration et maîtrise de nouvelles technologies comme Three.js et WebGL"
+        },
+        {
+          "nom": "Design UX/UI",
+          "description": "Création d'expériences utilisateur innovantes et intuitives"
+        }
+      ]
+    },
+    {
+      "id": "app-mobile-flutter",
+      "nom": "Application Mobile de Fitness",
+      "description": "Application mobile développée avec Flutter pour le suivi d'activités physiques. Intégration avec les capteurs du téléphone, synchronisation cloud, système de défis et gamification. Interface moderne et intuitive avec Material Design.",
+      "image": "https://images.pexels.com/photos/4162449/pexels-photo-4162449.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "lien": "",
+      "type": "universitaire",
+      "competencesEtudiees": [
+        {
+          "nom": "Développement mobile",
+          "description": "Maîtrise du développement cross-platform avec Flutter et Dart"
+        },
+        {
+          "nom": "Intégration matériel",
+          "description": "Utilisation des APIs natives pour accéder aux capteurs et fonctionnalités du dispositif"
+        }
+      ]
+    }
+  ]
+}
