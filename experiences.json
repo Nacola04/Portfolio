@@ -30,7 +30,7 @@
     {
       "id": "bac-sti2d",
       "nom": "Baccalauréat STI2D Spécialité SIN",
-      "description": "J'ai toujours été passionné par l'informatique. Je ne voulais pas faire un parcours général car je voulais une formation précise, mais pas autant précise qu'un bac profesionnel. Je me suis donc naturellement dirigé vers le bac STI2D, spécialité SIN. Ce qui m'a permis d'avoir de très bonne base pour mes études supérieures.",
+      "description": "J'ai toujours été passionné par l'informatique. Je ne voulais pas faire un parcours général car je voulais une formation précise, mais pas autant précise qu'un bac professionnel. Je me suis donc naturellement dirigé vers le bac STI2D, spécialité SIN. Ce qui m'a permis d'avoir de très bonnes bases pour mes études supérieures.",
       "image": "./images/sti2d.png",
       "lien": "https://fabrecarpentras.fr/fr/formations/16/bac-technologique",
       "type": "etudes",
@@ -49,7 +49,7 @@
     {
       "id": "president-bde",
       "nom": "Président du BDE Informatique",
-      "description": "J'ai été président du BDE Informatique de l'IUT Informatique de Lyon 1. J'ai donc du gérer une équipe d'une dizaine de personnes. J'ai également du gérer des projets de grands empleurs comme un weekend étudiant ou bien la Nuit de l'info, une compétition nationale.",
+      "description": "J'ai été président du BDE Informatique de l'IUT Informatique de Lyon 1. J'ai donc dû gérer une équipe d'une dizaine de personnes. J'ai également dû gérer des projets de grande ampleur comme un weekend étudiant ou bien la Nuit de l'info, une compétition nationale.",
       "image": "./images/bde-info-logo.jpg",
       "lien": "https://iut.univ-lyon1.fr/vie-etudiante/associations-etudiantes/bde-info-iut-lyon-1",
       "type": "personnelle",
@@ -57,14 +57,14 @@
       "competencesEtudiees": [
         {
           "nom": "Conduire un projet",
-          "description": "Cette expérience m'a permis de développer mes compétences en gestion de projet. J'ai donc du m'adapter à différents contextes et à différentes personnes."
+          "description": "Cette expérience m'a permis de développer mes compétences en gestion de projet. J'ai donc dû m'adapter à différents contextes et à différentes personnes."
         }
       ]
     },
     {
       "id": "but-informatique",
       "nom": "BUT Informatique à l'IUT Informatique de Lyon 1",
-      "description": "Je suis en 2ème année de BUT Informatique à l'IUT Informatique de Lyon 1. J'ai donc suivi une formation qui m'a permis de développer mes compétences en programmation, en réseaux et en gestion de projet. Cela m'a permis notament de faire ce Portfolio.",
+      "description": "Je suis en 2ème année de BUT Informatique à l'IUT Informatique de Lyon 1. J'ai donc suivi une formation qui m'a permis de développer mes compétences en programmation, en réseaux et en gestion de projet. Cela m'a permis notamment de faire ce Portfolio.",
       "image": "./images/logo_iut.webp",
       "lien": "https://iut.univ-lyon1.fr/",
       "type": "etudes",
@@ -72,7 +72,7 @@
       "competencesEtudiees": [
         {
           "nom": "Réaliser un développement d'application",
-          "description": "Ma formation m'apprends à utiliser des langages de programmation comme le C, le Java, le Python, le PHP, le JavaScript, le TypeScript, le SQL, le NoSQL, le HTML, le CSS."
+          "description": "Ma formation m'apprend à utiliser des langages de programmation comme le C, le Java, le Python, le PHP, le JavaScript, le TypeScript, le SQL, le NoSQL, le HTML, le CSS."
         },
         {
           "nom": "Optimiser des applications informatiques",
@@ -84,7 +84,7 @@
         },
         {
           "nom": "Gérer des données de l'information",
-          "description": "J'ai appris à manipuler des base de données avec du SQL, du NoSQL et du MongoDB. J'ai également appris à utiliser PHP my admin mais aussi PowerBI."
+          "description": "J'ai appris à manipuler des bases de données avec du SQL, du NoSQL et du MongoDB. J'ai également appris à utiliser phpMyAdmin mais aussi PowerBI."
         },
         {
           "nom": "Conduire un projet",

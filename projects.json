@@ -1,78 +1,120 @@
 {
   "projects": [
     {
-      "id": "ecommerce-react",
-      "nom": "Plateforme E-commerce",
-      "description": "Application web complète de commerce électronique développée en React avec TypeScript. Intégration de Stripe pour les paiements, gestion d'état avec Redux, et interface responsive. Fonctionnalités avancées : panier persistant, système de recherche et filtrage, gestion des utilisateurs.",
-      "image": "https://images.pexels.com/photos/230544/pexels-photo-230544.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "lien": "https://github.com/monprojet/ecommerce",
+      "id": "clue-mark",
+      "nom": "Clue'mark",
+      "description": "Clue'mark est une application permettant de créer des compositions de Cluedo, personnages, armes, lieux. les compositions sont entierement personnalisables. J'ai développé ce produit lorsque je me suis rendu compte que les papiers du jeu pouvaient manquer et que les applications existantes manquent de fonctionnalités. Ce projet m'a permis d'appendre par moi-même le JavaScript.",
+      "image": "./images/cluemark.png",
+      "lien": "",
       "type": "personnel",
       "competencesEtudiees": [
         {
-          "nom": "Développement Full-Stack",
-          "description": "Application des concepts de développement moderne avec React, gestion d'état et intégration API"
+          "nom": "Réaliser un développement d'application",
+          "description": "Ce projet m'a énormément appris, j'ai du découvrir le JavaScript tout seul et profondément pour atteindre mes objectifs."
         },
         {
-          "nom": "Gestion de projet",
-          "description": "Planification et développement itératif selon les méthodes agiles"
+          "nom": "Gérer des données de l'information",
+          "description": "J'ai du gérer le stockage des combinaisons de Cluedo, sachant que je n'avais pas encore appris comment le faire. J'ai donc du me débrouiller et apprendre le localstorage."
         }
       ]
     },
     {
-      "id": "gestion-bibliotheque",
-      "nom": "Système de Gestion Bibliothèque",
-      "description": "Application universitaire pour la gestion d'une bibliothèque développée en Java avec Spring Boot. Base de données MySQL, interface web responsive, système d'authentification et de réservation de livres. Projet réalisé en équipe de 4 personnes.",
-      "image": "https://images.pexels.com/photos/481516/pexels-photo-481516.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "id": "gestion-graphe",
+      "nom": "Application de gestion aérienne en Java",
+      "description": "Cette application a été développée en Java, en groupe de 3. Le principe est de gérer des fichiers csv qui regroupent des vols d'avions. Le but de l'application est de gérer les collisions, on crée un graphe qui représente les collisions. On a la possibilité de colorer le graphe afin de voir combien d'altitudes différentes il doit y avoir et quels avions doivent s'y trouver.",
+      "image": "./images/sae-java.png",
       "lien": "",
       "type": "universitaire",
       "competencesEtudiees": [
         {
-          "nom": "Programmation orientée objet",
-          "description": "Mise en pratique des concepts POO avec Java et Spring Framework"
+          "nom": "Réaliser un développement d'application",
+          "description": "Ce projet a été le premier très gros projet de mon BUT, nous avons dû approfondir nos connaissances en Java pour atteindre le résultat attendu."
         },
         {
-          "nom": "Base de données",
-          "description": "Conception et implémentation d'une base de données relationnelle avec MySQL"
+          "nom": "Optimiser des applications informatiques",
+          "description": "Ce projet a été très complexe, il a donc demandé une réflexion algorithmique très poussée."
         },
         {
-          "nom": "Travail en équipe",
-          "description": "Collaboration en équipe avec Git, méthodologie Scrum et répartition des tâches"
+          "nom": "Gérer des données de l'information",
+          "description": "Nous avons du gérer des données de fichiers csv, afin de récupérer les données nécessaires et les traiter."
+        },
+        {
+          "nom": "Travailler dans une équipe informatique",
+          "description": "Ce projet a été réalisé en groupe de 3, nous avons du réaliser un cahier des charges. nous nous sommes répartis les tâches et nous avons du travailler en équipe pour atteindre le résultat attendu."
         }
       ]
     },
     {
-      "id": "portfolio-3d",
-      "nom": "Portfolio 3D Interactif",
-      "description": "Portfolio personnel créé avec Three.js et React, mettant en avant mes projets dans un environnement 3D immersif. Navigation fluide, animations complexes et design moderne. Optimisé pour les performances avec lazy loading des modèles 3D.",
-      "image": "https://images.pexels.com/photos/1181263/pexels-photo-1181263.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "lien": "https://monportfolio3d.com",
-      "type": "personnel",
-      "competencesEtudiees": [
-        {
-          "nom": "Technologies émergentes",
-          "description": "Exploration et maîtrise de nouvelles technologies comme Three.js et WebGL"
-        },
-        {
-          "nom": "Design UX/UI",
-          "description": "Création d'expériences utilisateur innovantes et intuitives"
-        }
-      ]
-    },
-    {
-      "id": "app-mobile-flutter",
-      "nom": "Application Mobile de Fitness",
-      "description": "Application mobile développée avec Flutter pour le suivi d'activités physiques. Intégration avec les capteurs du téléphone, synchronisation cloud, système de défis et gamification. Interface moderne et intuitive avec Material Design.",
-      "image": "https://images.pexels.com/photos/4162449/pexels-photo-4162449.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "id": "blog-php",
+      "nom": "Blog PHP",
+      "description": "Nous avons dû réaliser un blog en PHP, nous avions des consignes globales mais nous devions ajouter des fonctionnalités par nous-même. J'ai adoré ce projet car j'ai été très imaginatif, j'ai rajouté de nombreuses fonctionnalités et cela m'a permis de perfectionner mon PHP.",
+      "image": "./images/blog-php.png",
       "lien": "",
       "type": "universitaire",
       "competencesEtudiees": [
         {
-          "nom": "Développement mobile",
-          "description": "Maîtrise du développement cross-platform avec Flutter et Dart"
+          "nom": "Réaliser un développement d'applications",
+          "description": "Ce projet m'a permis de m'améliorer grandement en PHP, en effet, le blog était uniquement en PHP."
         },
         {
-          "nom": "Intégration matériel",
-          "description": "Utilisation des APIs natives pour accéder aux capteurs et fonctionnalités du dispositif"
+          "nom": "Gérer des données de l'information",
+          "description": "Dans le contexte du blog, j'ai dû m'occuper de gérer une base de données pour stocker les commentaires, les articles ou bien même les utilisateurs."
+        },
+        {
+          "nom": "Travailler dans une équipe informatique",
+          "description": "Ce projet a été réalisé en groupe de 2. Nous nous sommes donc répartis les tâches afin de réaliser le blog."
+        }
+      ]
+    },
+    {
+      "id": "douzhee",
+      "nom": "Douzhee",
+      "description": "Ce projet est ma plus grande fierté. Nous avons réalisé en groupe de 4 un jeu en ligne reprenant les règles du Yahtzee. Durant ce projet, je me suis occupé de créer les CRUD afin de mettre à jour la base de données. Comme j'étais à l'origine de l'idée, je me suis occupé de l'entièreté du fonctionnement du jeu, ce qui inclut la gestion des websockets, que j'ai dû apprendre tout seul.",
+      "image": "./images/douzhee.png",
+      "lien": "",
+      "type": "universitaire",
+      "competencesEtudiees": [
+        {
+          "nom": "Réaliser un développement d'application",
+          "description": "Le développement de cette application nous a permis d'apprendre à utiliser les websockets mais aussi à approfondir nos principes REST."
+        },
+        {
+          "nom": "Optimiser des applications informatiques",
+          "description": "Au vu de la taille de l'application, nous avons du analyser entièrement les problématiques afin d'optimiser au mieux le jeu, et d'avoir des réponses rapides. Le but était d'avoir une performance optimale."
+        },
+        {
+          "nom": "Administrer des systèmes informatiques communicants complexes",
+          "description": "Le jeu est un jeu en ligne, nous avons donc du gérer un serveur, pour permettre aux joueurs de jouer entre eux et en même temps."
+        },
+        {
+          "nom": "Gérer des données de l'information",
+          "description": "Nous avons dû gérer une base de données pour stocker les parties, les utilisateurs, les scores, les succès, les statistiques, etc."
+        },
+        {
+          "nom": "Travailler dans une équipe informatique",
+          "description": "Ce projet a été réalisé en groupe de 4. Nous nous sommes donc répartis les tâches afin de réaliser le jeu."
+        }
+      ]
+    },
+    {
+      "id": "gouffre-mobile",
+      "nom": "Gouffre mobile",
+      "description": "Ce projet est un jeu mobile, il a été réalisé en groupe de 2 et nous avons utilisé Kotlin. Le but du projet était de créer une version en ligne du jeu de société 'Le Gouffre'.",
+      "image": "./images/gouffre.jpg",
+      "lien": "",
+      "type": "universitaire",
+      "competencesEtudiees": [
+        {
+          "nom": "Réaliser un développement d'application",
+          "description": "Ce projet m'a appris beaucoup de choses sur Kotlin, en effet, j'ai toujours eu du mal à l'utiliser."
+        },
+        {
+          "nom": "Gérer des données de l'information",
+          "description": "Nous avons géré les règles via un fichier JSON stocké sur une API. Nous avons aussi dû gérer les utilisateurs et leurs emplacements et leur image."
+        },
+        {
+          "nom": "Travailler dans une équipe informatique",
+          "description": "Ce projet a été réalisé en groupe de 2. Nous nous sommes donc répartis les tâches afin de réaliser le jeu."
         }
       ]
     }
