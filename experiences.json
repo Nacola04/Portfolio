@@ -3,92 +3,111 @@
     {
       "id": "stage-dev-fullstack",
       "nom": "Stage Développeur Full-Stack",
-      "description": "Stage de 6 mois chez TechCorp en tant que développeur full-stack. Développement d'une application web de gestion interne avec React et Node.js. Collaboration en équipe agile, participation aux code reviews et amélioration continue des processus de développement.",
-      "image": "https://images.pexels.com/photos/3184291/pexels-photo-3184291.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "lien": "https://techcorp.com",
+      "description": "Stage de 8 mois chez l'entreprise AK Digital en tant que développeur full-stack. Développement d'une application web de gestion de projets avec Next.js et Node.js. Développement WordPress.",
+      "image": "./images/akdigital.jpg",
+      "lien": "https://akdigital.fr/",
       "type": "professionnelle",
-      "date": "2024-02-01",
+      "date": "2025-04-14",
       "competencesEtudiees": [
         {
-          "nom": "Développement professionnel",
-          "description": "Application des compétences techniques dans un environnement professionnel réel"
+          "nom": "Réaliser un développement d'application",
+          "description": "Cette compétence m'a apporté les connaissances essentielles du développement RESTful pour appréhender au mieux l'application Next."
         },
         {
-          "nom": "Travail en équipe",
-          "description": "Collaboration avec une équipe de développeurs expérimentés et participation aux méthodologies agiles"
+          "nom": "Optimiser des applications informatiques",
+          "description": "Ces connaissances m'ont permis de résoudre des problèmes complexes afin d'améliorer au mieux les performances de l'application. Tel que l'optimisation des rooms websockets ou bien l'utilisation de design patterns comme le singleton ou le factory."
         },
         {
-          "nom": "Communication professionnelle",
-          "description": "Présentation de solutions techniques et participation aux réunions d'équipe"
+          "nom": "Gérer des données de l'information",
+          "description": "Cette compétence est cruciale pour la gestion de l'API. En effet, durant le stage, j'ai du gérer plusieurs controlleurs qui interagissent avec la base de données. De plus, j'ai fortement utilisé MongoDB que je connaissais déjà."
+        },
+        {
+          "nom": "Travailler dans une équipe informatique",
+          "description": "Durant le stage, j'ai travaillé étroitement avec mon maître de stage. J'ai donc du m'adapter aux normes de l'entreprise et aux outils utilisés."
         }
       ]
     },
     {
-      "id": "master-informatique",
-      "nom": "Master en Informatique",
-      "description": "Formation spécialisée en développement logiciel et ingénierie informatique. Cursus couvrant les technologies web modernes, l'architecture logicielle, les bases de données et la gestion de projet. Projets pratiques en équipe et stage en entreprise.",
-      "image": "https://images.pexels.com/photos/267885/pexels-photo-267885.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "lien": "",
+      "id": "bac-sti2d",
+      "nom": "Baccalauréat STI2D Spécialité SIN",
+      "description": "J'ai toujours été passionné par l'informatique. Je ne voulais pas faire un parcours général car je voulais une formation précise, mais pas autant précise qu'un bac profesionnel. Je me suis donc naturellement dirigé vers le bac STI2D, spécialité SIN. Ce qui m'a permis d'avoir de très bonne base pour mes études supérieures.",
+      "image": "./images/sti2d.png",
+      "lien": "https://fabrecarpentras.fr/fr/formations/16/bac-technologique",
+      "type": "etudes",
+      "date": "2021-09-01",
+      "competencesEtudiees": [
+        {
+          "nom": "Réaliser un développement d'application",
+          "description": "Cette formation m'a initié à la programmation. J'ai appris à utiliser des langages de programmation comme le C++, le c# et le python."
+        },
+        {
+          "nom": "Travailler dans une équipe informatique",
+          "description": "J'ai beaucoup aimé la dernière année. En effet, c'était la première fois que je travaillais en équipe sur un gros projet. Nous devions concevoir un bateau télécommandé, qui devait prendre des mesures de l'eau. J'ai donc du travailler avec différentes personnes, qui avaient différentes compétences."
+        }
+      ]
+    },
+    {
+      "id": "president-bde",
+      "nom": "Président du BDE Informatique",
+      "description": "J'ai été président du BDE Informatique de l'IUT Informatique de Lyon 1. J'ai donc du gérer une équipe d'une dizaine de personnes. J'ai également du gérer des projets de grands empleurs comme un weekend étudiant ou bien la Nuit de l'info, une compétition nationale.",
+      "image": "./images/bde-info-logo.jpg",
+      "lien": "https://iut.univ-lyon1.fr/vie-etudiante/associations-etudiantes/bde-info-iut-lyon-1",
+      "type": "personnelle",
+      "date": "2023-03-24",
+      "competencesEtudiees": [
+        {
+          "nom": "Conduire un projet",
+          "description": "Cette expérience m'a permis de développer mes compétences en gestion de projet. J'ai donc du m'adapter à différents contextes et à différentes personnes."
+        }
+      ]
+    },
+    {
+      "id": "but-informatique",
+      "nom": "BUT Informatique à l'IUT Informatique de Lyon 1",
+      "description": "Je suis en 2ème année de BUT Informatique à l'IUT Informatique de Lyon 1. J'ai donc suivi une formation qui m'a permis de développer mes compétences en programmation, en réseaux et en gestion de projet. Cela m'a permis notament de faire ce Portfolio.",
+      "image": "./images/logoIUT.png",
+      "lien": "https://iut.univ-lyon1.fr/",
       "type": "etudes",
       "date": "2022-09-01",
       "competencesEtudiees": [
         {
-          "nom": "Fondamentaux informatiques",
-          "description": "Acquisition des bases théoriques et pratiques du développement logiciel"
+          "nom": "Réaliser un développement d'application",
+          "description": "Ma formation m'apprends à utiliser des langages de programmation comme le C, le Java, le Python, le PHP, le JavaScript, le TypeScript, le SQL, le NoSQL, le HTML, le CSS."
         },
         {
-          "nom": "Méthodologie de projet",
-          "description": "Apprentissage des méthodes de gestion de projet informatique et travail en équipe"
+          "nom": "Optimiser des applications informatiques",
+          "description": "Cette formation éveille notre esprit critique. En effet, nous sommes amenés à résoudre des problèmes algorithmiques complexes."
         },
         {
-          "nom": "Veille technologique",
-          "description": "Développement de la capacité à s'adapter aux évolutions technologiques"
+          "nom": "Administrer des systèmes informatiques communicants complexes",
+          "description": "J'ai appris à administrer des systèmes informatiques. En effet, j'ai été amené à configurer des routeurs, des serveurs DNS, DHCP, afin de communiquer entre plusieurs sous réseaux."
+        },
+        {
+          "nom": "Gérer des données de l'information",
+          "description": "J'ai appris à manipuler des base de données avec du SQL, du NoSQL et du MongoDB. J'ai également appris à utiliser PHP my admin mais aussi PowerBI."
+        },
+        {
+          "nom": "Conduire un projet",
+          "description": "La formation apporte un grand bagage en gestion de projet. En effet, nous sommes amenés à nous placer en tant que chef de projet, avec la conception d'un cahier des charges complet. Nous apprenons aussi des techniques de gestion de projet comme la méthode agile mais aussi des techniques de management."
+        },
+        {
+          "nom": "Travailler dans une équipe informatique",
+          "description": "La formation nous pousse à travailler en équipe. Nous devons réaliser plusieurs SAE, les SAE sont des projets de groupe à faire en autonomie. Cela nous permet d'améliorer notre communication."
         }
       ]
     },
     {
-      "id": "freelance-web",
-      "nom": "Développeur Web Freelance",
-      "description": "Activité freelance en parallèle des études, création de sites web pour des petites entreprises locales. Gestion complète des projets de la conception à la mise en ligne. Développement de compétences en relation client et gestion d'entreprise.",
-      "image": "https://images.pexels.com/photos/3584994/pexels-photo-3584994.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "lien": "",
+      "id": "benevole-stud",
+      "nom": "Membre de la Student Club",
+      "description": "A la suite de mon mandat de président du BDE Informatique, je me suis engagé dans la Student Club. C'est une fédération de site, elle aide les BDE de son site, ici la Doua, un campus de l'Université Claude Bernard Lyon 1.",
+      "image": "./images/stud.jpg",
+      "lien": "https://iut.univ-lyon1.fr/vie-etudiante/associations-etudiantes/bde-doua-iut-lyon-1",
       "type": "personnelle",
-      "date": "2023-06-01",
+      "date": "2024-06-12",
       "competencesEtudiees": [
         {
-          "nom": "Entrepreneuriat",
-          "description": "Développement de l'autonomie et des compétences entrepreneuriales"
-        },
-        {
-          "nom": "Gestion client",
-          "description": "Apprentissage de la communication client et gestion des attentes"
-        },
-        {
-          "nom": "Polyvalence technique",
-          "description": "Maîtrise de l'ensemble de la chaîne de développement web"
-        }
-      ]
-    },
-    {
-      "id": "bts-sio",
-      "nom": "BTS Services Informatiques aux Organisations",
-      "description": "Formation initiale en informatique avec spécialisation en développement d'applications. Acquisition des fondamentaux de la programmation, des bases de données et des réseaux. Premiers projets en équipe et découverte du monde professionnel.",
-      "image": "https://images.pexels.com/photos/159711/books-bookstore-book-reading-159711.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "lien": "",
-      "type": "etudes",
-      "date": "2020-09-01",
-      "competencesEtudiees": [
-        {
-          "nom": "Bases de la programmation",
-          "description": "Apprentissage des langages de programmation et des concepts algorithmiques"
-        },
-        {
-          "nom": "Système et réseaux",
-          "description": "Compréhension de l'infrastructure informatique et des communications"
-        },
-        {
-          "nom": "Projet informatique",
-          "description": "Réalisation de premiers projets informatiques en contexte professionnel"
+          "nom": "Travailler dans une équipe informatique",
+          "description": "J'ai travaillé avec les autres membres de la Student Club. Nous avons réalisé des projets ensemble. Cela m'a permis d'améliorer ma communication et de développer mes compétences en gestion de projet."
         }
       ]
     }
