@@ -3,7 +3,7 @@
     {
       "id": "stage-dev-fullstack",
       "nom": "Stage Développeur Full-Stack",
-      "description": "Stage de 8 mois chez l'entreprise AK Digital en tant que développeur full-stack. Développement d'une application web de gestion de projets avec Next.js et Node.js. Développement WordPress.",
+      "description": "Stage de 8 semaines chez l'entreprise AK Digital en tant que développeur full-stack. Développement d'une application web de gestion de projets avec Next.js et Node.js. Développement WordPress.",
       "image": "./images/akdigital.jpg",
       "lien": "https://akdigital.fr/",
       "type": "professionnelle",
